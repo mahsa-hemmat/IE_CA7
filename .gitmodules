@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = https://github.com/mahsa-hemmat/Baloot_CA7_Front.git
+[submodule "back"]
+	path = back
+	url = https://github.com/kymmt80/Baloot_CA7.git
